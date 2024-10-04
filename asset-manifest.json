@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WS101-REACT-LANDINGPAGE/static/css/main.26efffea.css",
+    "main.js": "/WS101-REACT-LANDINGPAGE/static/js/main.88c37ca8.js",
+    "static/js/453.b3e16baf.chunk.js": "/WS101-REACT-LANDINGPAGE/static/js/453.b3e16baf.chunk.js",
+    "index.html": "/WS101-REACT-LANDINGPAGE/index.html",
+    "main.26efffea.css.map": "/WS101-REACT-LANDINGPAGE/static/css/main.26efffea.css.map",
+    "main.88c37ca8.js.map": "/WS101-REACT-LANDINGPAGE/static/js/main.88c37ca8.js.map",
+    "453.b3e16baf.chunk.js.map": "/WS101-REACT-LANDINGPAGE/static/js/453.b3e16baf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26efffea.css",
+    "static/js/main.88c37ca8.js"
+  ]
+}
